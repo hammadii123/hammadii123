@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width=400 src="https://github.com/user-attachments/assets/06aed6ef-b6f0-431d-a162-3c6f2069fa77">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadii123&label=Profile%20views&color=0e75b6&style=flat" alt="hammadii123" /> </p>
-
+- GitHub Username: hammadii123
 - 🌱 I’m currently learning **Java,Python,DSA,Web development**
 
 - 👨‍💻 All of my projects are available at [next-js-milestone-2-project-with-tailwind-css-final.vercel.app](next-js-milestone-2-project-with-tailwind-css-final.vercel.app)
