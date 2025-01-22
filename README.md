@@ -28,3 +28,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadii123&" alt="hammadii123" /></p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
