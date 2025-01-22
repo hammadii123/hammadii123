@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad Mustafa</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width=400 src="https://github.com/user-attachments/assets/06aed6ef-b6f0-431d-a162-3c6f2069fa77">
+<img align="right" class="GIF" alt="GIF" src="/coding.gif"  width="350px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadii123&label=Profile%20views&color=0e75b6&style=flat" alt="hammadii123" /> </p>
 - GitHub Username: hammadii123
