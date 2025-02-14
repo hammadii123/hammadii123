@@ -59,6 +59,13 @@
 
 ---
 
+### 📊 Most used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadii123&layout=pie&langs_count=10" alt="Most Used Languages" />
+</p>
+
+---
+
 ### 🏆 Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Coder-Top%201%25-brightgreen" alt="Top Coder" />
