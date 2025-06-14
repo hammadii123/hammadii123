@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF00F7&background=000000&center=true&vCenter=true&width=600&lines=Building+amazing+React+%26+Next.js+apps;Turning+coffee+into+code,+deployments,+and+magic;Crafting+smooth+frontend+%26+backend+experiences;Exploring+the+power+of+Agentic+AI" alt="Subtitle animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF00F7&background=000000&center=true&vCenter=true&width=600&lines=Building+amazing+React+%26+Next.js+apps;Turning+coffee+into+code%2C+deployments%2C+and+magic;Crafting+smooth+frontend+%26+backend+experiences;Exploring+the+power+of+Agentic+AI" alt="Subtitle animation">
   </a>
 </p>
+
 
 
 <p align="center">
