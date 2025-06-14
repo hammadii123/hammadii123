@@ -2,6 +2,13 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF00F7&background=000000&center=true&vCenter=true&width=600&lines=Building+amazing+React+%26+Next.js+apps;Turning+coffee+into+code,+deployments,+and+magic;Crafting+smooth+frontend+%26+backend+experiences;Exploring+the+power+of+Agentic+AI" alt="Subtitle animation">
+  </a>
+</p>
+
+
+<p align="center">
   <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="250" height="250" style="border-radius:50%; border:4px solid #ff4500;" />
 </p>
 
