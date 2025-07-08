@@ -95,10 +95,10 @@
     </tr>
     <tr>
       <td><a href="https://github.com/sachinchoolur/lightGallery"><b>LightGallery (React)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanmcdermott/clean-code-javascript?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hammadii123/clean-code-javascript"><b>Clean Code JavaScript</b></a></td>
