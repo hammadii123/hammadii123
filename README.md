@@ -67,6 +67,50 @@
 
 ---
 
+<h3>Open Source Projects</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull Requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/sweetalert2/sweetalert2"><b>SweetAlert2</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sweetalert2/sweetalert2?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/fkhadra/react-toastify"><b>React Toastify</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/fkhadra/react-toastify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/fkhadra/react-toastify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/fkhadra/react-toastify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fkhadra/react-toastify?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sachinchoolur/lightGallery"><b>LightGallery (React)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinchoolur/lightgallery-react?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hammadii123/clean-code-javascript"><b>Clean Code JavaScript</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanmcdermott/clean-code-javascript?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanmcdermott/clean-code-javascript?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanmcdermott/clean-code-javascript?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 📊 Most used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadii123&layout=pie&langs_count=10&theme=radical" alt="Most Used Languages" />
