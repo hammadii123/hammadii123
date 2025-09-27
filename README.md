@@ -30,9 +30,15 @@
 ### 📞 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/hammad-mustafa2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://wa.link/kcuxbi" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a>
+  <a href="https://wa.link/kcuxbi" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="40"/>
+  </a>
+
+   <a href="mailto:hammadworks123gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
+  </a>
   
 </p>
 
