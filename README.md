@@ -32,9 +32,12 @@
   <a href="https://linkedin.com/in/hammad-mustafa2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://wa.link/kcuxbi" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a>
+  
 </p>
 
 ---
+
 
 ### 💻 Languages and Tools
 <p align="left">
