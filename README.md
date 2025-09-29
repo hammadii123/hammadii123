@@ -22,7 +22,7 @@
 
 ### 🌟 About Me
 - 🌱 Currently learning: **Java, Python, DSA, Web Development**  
-- 👨‍💻 Explore my projects: [Portfolio Website](https://next-js-milestone-2-project-with-tailwind-css-final.vercel.app)  
+ 
 - 📫 How to reach me: **hammadworks123@gmail.com**
 
 ---
