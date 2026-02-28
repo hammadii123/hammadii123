@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi 👋, I'm Hammad Mustafa</h1>
-  <h3>Full Stack Engineer | MERN & AI Integration Specialist</h3>
+  <h3>Full Stack Engineer | AI Integration Specialist</h3>
 
   <p align="center">
     <a href="https://git.io/typing-svg">
