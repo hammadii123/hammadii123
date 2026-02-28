@@ -31,6 +31,18 @@ Forward-thinking Full Stack Engineer with a strong foundation in building produc
 
 ---
 
+### 🌐 My Portfolio
+<p align="center">
+  <a href="http://hammad-mustafa-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9D&labelColor=000000" alt="Hammad's Portfolio" height="45" />
+  </a>
+</p>
+<p align="center">
+  <i>Catch a glimpse of my latest projects, AI integrations, and full-stack web applications! 🚀</i>
+</p>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 #### **Frontend Engineering**
